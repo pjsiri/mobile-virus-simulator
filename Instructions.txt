@@ -1,0 +1,18 @@
+This is a phone virus transmission simulation.
+
+Firstly, To increase the number of phones in the simulation, please press the "up" arrow key. These phones have three
+different status, this includes healthy phones, infected phones, and phones going to the repair shop. These are represented
+by their own colour. Healthy phones are blue, infected phones are red and phones going to the repair shop are green.
+
+Secondly, press "v" key to randomly assign a virus to a phone. The virus tranmits to other phones within 20 pixels. After
+the phone gets infected, the countdown starts of their lifespan from 500 to 0. Once, it reaches 0 it will be removed from
+the simulation. Only the repair shop can stop this process of phones being removed. Please note only one phone can enter 
+the RepairShop at a time.
+
+Thirdly, observe the results. There is a bar representing each status of the phone. This is a visual aid for the user. 
+The progress bar resets every 4 seconds and is only activated if a phone is present in the repairShop.
+
+Have Fun!
+
+
+
